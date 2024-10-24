@@ -1,0 +1,49 @@
+ created by virtualenv automatically
+
+# Byte-compiled / compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+ENV/
+env/
+Lib/
+Scripts/
+share/
+etc/
+include/
+
+# Audios and large data files
+audios/
+*.wav
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.out
+*.pid
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Tone.js-related files (if any generated)
+tonejs/
+
+# Ignore virtual environment configuration
+pyvenv.cfg
+
+# System Variables
+*.env
