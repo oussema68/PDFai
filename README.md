@@ -82,7 +82,7 @@ flask run
 - The app can be deployed on any cloud service that supports Flask (e.g., AWS, Heroku).
 - Ensure environment variables for Flask, OpenAI, and AWS are set correctly before deploying.
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+**This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.**
 
 ## Additional Notes:
 Modify the DynamoDB and S3 configurations based on your setup.
